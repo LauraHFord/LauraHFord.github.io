@@ -18,8 +18,8 @@ email: TBC@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Laura Ford is a celebrant in Sydney and can officiate weddings, funerals and baby naming ceremonies. 
   She also specialises in first dance choreography. 
-twitter_username: username
-github_username: LauraHFord
+# twitter_username: username
+# github_username: LauraHFord
 minimal_mistakes_skin: mint
 search: true
 
