@@ -89,4 +89,10 @@ Inclusions:
 - Free choreography recording for at home practice 
 - Choice of a variety of dance style to suit your needs 
 
+![laura and Mike Dance](https://user-images.githubusercontent.com/110319996/183275713-83407ad0-1c18-4725-9001-d5ed4a0ba1f6.jpg)
+
+
+![image](https://user-images.githubusercontent.com/110319996/183275727-15478366-ae09-4f2f-bcf5-edec0f1a1645.png)
+
+
 
