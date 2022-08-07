@@ -7,6 +7,7 @@ categories:
 
 # Weddings, Baby Naming Ceremonies, First Dance Choreography and Funeral Celebrant Services 
 
+      ![0A3A09F0-02CB-4071-AEDB-E3042EB7790A](https://user-images.githubusercontent.com/110319996/183275781-b514ae40-cebb-4eee-82cd-59585a3cf914.JPG)
 
 
 # Weddings 
@@ -89,10 +90,10 @@ Inclusions:
 - Free choreography recording for at home practice 
 - Choice of a variety of dance style to suit your needs 
 
-![laura and Mike Dance](https://user-images.githubusercontent.com/110319996/183275713-83407ad0-1c18-4725-9001-d5ed4a0ba1f6.jpg)
+            ![laura and Mike Dance](https://user-images.githubusercontent.com/110319996/183275713-83407ad0-1c18-4725-9001-d5ed4a0ba1f6.jpg)
 
 
-![image](https://user-images.githubusercontent.com/110319996/183275727-15478366-ae09-4f2f-bcf5-edec0f1a1645.png)
+                  ![image](https://user-images.githubusercontent.com/110319996/183275727-15478366-ae09-4f2f-bcf5-edec0f1a1645.png)
 
 
 
