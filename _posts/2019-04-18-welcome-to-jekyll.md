@@ -1,29 +1,92 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: Laura Ford Celebrant Services 
+date: 2022-08-07 
 categories:
-  - blog
-tags:
-  - Jekyll
-  - update
+  - Price List
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# Weddings, Baby Naming Ceremonies, First Dance Choreography and Funeral Celebrant Services 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+# Weddings 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Price List 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Wedding Packages 
+
+# Eat Drink and Be Married $800
+Inclusions: 
+- A personally written ceremony script
+- Wedding Information Kit
+- Two to three face to face meetings
+- One wedding rehearsal
+- Preparation and submission of legal documents and certifications to Births, Deaths and Marriages
+- Presentation of Marriage Certificate
+- Strictly confidential storage of records
+- Performance of legally binding ceremony 
+- Professional liaison with on the day service providers to ensure smooth running of the ceremony
+
+# Your Marriage Awaits $700
+Inclusions: 
+- Personally written ceremony script 
+- Wedding Information Kit 
+- One to Two face to face meetings 
+- One optional wedding rehearsal 
+- Preparation and submission of legal documents and certifications to Births, Deaths and Marriages 
+- Presentation of Marriage Certificate 
+- Strictly confidential storage of records 
+- Performance of 30 minute legally binding ceremony 
+- Liaison with on the day service providers to ensure smooth running of the ceremony
+
+# Ring it On $500
+Inclusions: 
+- Tailored script from samples 
+- Wedding Information Kit 
+- One face to face meeting 
+- Preparation and submission of legal documents and certificates to Births. Deaths and Marriages
+- Presentation of Marriage Certifcate 
+- Strictly confidential storage of records 
+- Performance of 20 minute legally binding ceremony 
+
+
+
+# Additional Celebrant Services: 
+Baby Naming Ceremonies $350
+Inclusions: 
+- Personally written ceremony script 
+- Baby Naming Ceremony Information Kit 
+- One face to face meetings 
+- Strictly confidential storage of records 
+- Performance of ceremony 
+- Performance of optional naming ceremony rituals
+- Liaison with on the day service providers to ensure smooth running of the ceremony
+
+# Funeral and Memorial Ceremonies $600
+Inclusions: 
+- Personally written service 
+- Funeral/Memorial Service and Ash Scattering Ceremony Information Kit 
+- Face to face meeting at your home with family members to discuss your wishes for the service 
+- Discussion with close relatives to gather information about deceased
+- Liaison with funeral director 
+- Performance of service
+- Performance of optional remembrance rituals 
+
+
+
+# Additional Services
+
+# Master of Ceremonies $300
+- Liaison with on the day service providers to ensure smoothing running of the event
+- Event house keeping  
+- Flexible, professional approach to event coordination 
+- Experienced, confident public speaking and presentation 
+- Personalised event specific service tailored to client’s needs
+
+# First Dance Choreography and Lessons $ 250 ($150 when booked with a wedding package) 
+- Personalised first dance choreography 
+- Two 45 minute dance lessons with couple 
+- Free choreography recording for at home practice 
+- Choice of a variety of dance style to suit your needs 
+
+
