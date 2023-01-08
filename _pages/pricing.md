@@ -1,7 +1,7 @@
 
 ---
 
-# Weddings, Baby Naming Ceremonies, First Dance Choreography and Funeral Celebrant Services 
+# Celebrant Services 
 
 ![0A3A09F0-02CB-4071-AEDB-E3042EB7790A](https://user-images.githubusercontent.com/110319996/183275781-b514ae40-cebb-4eee-82cd-59585a3cf914.JPG)
 
@@ -51,8 +51,8 @@ Inclusions:
 
 
 
-## Additional Celebrant Services: 
-Baby Naming Ceremonies $350
+# Additional Celebrant Services: 
+## Baby Naming Ceremonies $350
 Inclusions: 
 - Personally written ceremony script 
 - Baby Naming Ceremony Information Kit 
@@ -74,9 +74,9 @@ Inclusions:
 
 
 
-## Additional Services
+# Additional Services:
 
-## Master of Ceremonies $300
+## Master of Ceremonies $350
 - Liaison with on the day service providers to ensure smoothing running of the event
 - Event house keeping  
 - Flexible, professional approach to event coordination 
