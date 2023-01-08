@@ -5,14 +5,12 @@ title: "Pricing"
 
 # Celebrant Services 
 
-![0A3A09F0-02CB-4071-AEDB-E3042EB7790A](https://user-images.githubusercontent.com/110319996/183275781-b514ae40-cebb-4eee-82cd-59585a3cf914.JPG)
+![laura 1 ](https://user-images.githubusercontent.com/110319996/211185105-f4d9baf0-800b-498b-be92-13dbe437ae90.jpg)
 
 
 # Weddings 
 
-Price List 
-
-Wedding Packages 
+## Wedding Packages 
 
 ## Eat Drink and Be Married $950
 Inclusions: 
@@ -54,6 +52,7 @@ Inclusions:
 
 
 # Additional Celebrant Services: 
+
 ## Baby Naming Ceremonies $350
 Inclusions: 
 - Personally written ceremony script 
