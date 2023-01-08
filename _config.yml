@@ -48,10 +48,10 @@ author:
   email. : celebrant@lauraford.com.au
   links:
     - label: "About"
-      icon: "fas fa-fw circle-question"
+      icon: "fas fa-fw fa-link"
       url: "/about"
     - label: "Pricing"
-      icon: "fas fa-fw circle-dollar"
+      icon: "fas fa-fw fa-link"
       url: "/pricing"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -60,10 +60,10 @@ author:
 footer:
   links:
   - label: "About"
-    icon: "fas fa-fw circle-question"
+    icon: "fas fa-fw fa-link"
     url: "/about"
   - label: "Pricing"
-    icon: "fas fa-fw circle-dollar"
+    icon: "fas fa-fw fa-link"
     url: "/pricing"
   - label: "Instagram"
     icon: "fab fa-fw fa-instagram"
