@@ -12,7 +12,7 @@ Price List
 
 Wedding Packages 
 
-# Eat Drink and Be Married $950
+## Eat Drink and Be Married $950
 Inclusions: 
 - A personally written ceremony script
 - Wedding Information Kit
@@ -25,7 +25,7 @@ Inclusions:
 - Provided Public Annoucemenet system and blue tooth music operation
 - Professional liaison with on the day service providers to ensure smooth running of the ceremony
 
-# Your Marriage Awaits $850
+## Your Marriage Awaits $850
 Inclusions: 
 - Personally written ceremony script 
 - Wedding Information Kit 
@@ -38,7 +38,7 @@ Inclusions:
 - Provided Public Annoucement system and blue tooth music operation
 - Liaison with on the day service providers to ensure smooth running of the ceremony
 
-# Ring it On $600
+## Ring it On $600
 Inclusions: 
 - Tailored script from samples 
 - Wedding Information Kit 
@@ -51,7 +51,7 @@ Inclusions:
 
 
 
-# Additional Celebrant Services: 
+## Additional Celebrant Services: 
 Baby Naming Ceremonies $350
 Inclusions: 
 - Personally written ceremony script 
@@ -62,7 +62,7 @@ Inclusions:
 - Performance of optional naming ceremony rituals
 - Liaison with on the day service providers to ensure smooth running of the ceremony
 
-# Funeral and Memorial Ceremonies $600
+## Funeral and Memorial Ceremonies $800
 Inclusions: 
 - Personally written service 
 - Funeral/Memorial Service and Ash Scattering Ceremony Information Kit 
@@ -74,16 +74,16 @@ Inclusions:
 
 
 
-# Additional Services
+## Additional Services
 
-# Master of Ceremonies $300
+## Master of Ceremonies $300
 - Liaison with on the day service providers to ensure smoothing running of the event
 - Event house keeping  
 - Flexible, professional approach to event coordination 
 - Experienced, confident public speaking and presentation 
 - Personalised event specific service tailored to client’s needs
 
-# First Dance Choreography and Lessons $ 300 ($250 when booked with a wedding package) 
+## First Dance Choreography and Lessons $ 300 ($250 when booked with a wedding package) 
 - Personalised first dance choreography 
 - Two 45 minute dance lessons with couple 
 - Free choreography recording for at home practice 
