@@ -47,8 +47,11 @@ author:
   bio    : "Northern Beaches-based celebrant."
   email. : celebrant@lauraford.com.au
   links:
+    - label: "About"
+      icon: "fas fa-fw circle-question"
+      url: "/about"
     - label: "Pricing"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw circle-dollar"
       url: "/pricing"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -56,8 +59,11 @@ author:
 
 footer:
   links:
+  - label: "About"
+    icon: "fas fa-fw circle-question"
+    url: "/about"
   - label: "Pricing"
-    icon: "fas fa-fw fa-link"
+    icon: "fas fa-fw circle-dollar"
     url: "/pricing"
   - label: "Instagram"
     icon: "fab fa-fw fa-instagram"
