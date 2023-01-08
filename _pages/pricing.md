@@ -1,0 +1,74 @@
+# Weddings, Baby Naming Ceremonies, First Dance Choreography and Funeral Celebrant Services 
+
+## Weddings 
+
+### Price List 
+#### Weddings 
+Eat Drink and Be Married $950
+# Inclusions: 
+# A personally written ceremony script
+# Wedding Information Kit
+# Two to three face to face meetings
+# One wedding rehearsal
+# Preparation and submission of legal documents and certifications to Births, Deaths and Marriages
+# Presentation of Marriage Certificate
+# Strictly confidential storage of records
+# Performance of legally binding ceremony 
+# Professional liaison with on the day service providers to ensure smooth running of the ceremony
+
+# Your Marriage Awaits $800
+# Inclusions: 
+# Personally written ceremony script 
+# Wedding Information Kit 
+# One to Two face to face meetings 
+# One optional wedding rehearsal 
+# Preparation and submission of legal documents and certifications to Births, Deaths and Marriages 
+# Presentation of Marriage Certificate 
+# Strictly confidential storage of records 
+# Performance of 30 minute legally binding ceremony 
+# Liaison with on the day service providers to ensure smooth running of the ceremony
+
+# Ring it On $600
+# Inclusions: 
+# Tailored script from samples 
+# Wedding Information Kit 
+# One face to face meeting 
+# Preparation and submission of legal documents and certificates to Births. Deaths and Marriages
+# Presentation of Marriage Certifcate 
+# Strictly confidential storage of records 
+# Performance of 20 minute legally binding ceremony 
+
+# Baby Naming Ceremonies $350
+# Inclusions: 
+# Personally written ceremony script 
+# Baby Naming Ceremony Information Kit 
+# One face to face meetings 
+# Strictly confidential storage of records 
+# Performance of ceremony 
+# Performance of optional naming ceremony rituals
+# Liaison with on the day service providers to ensure smooth running of the ceremony
+
+# Funeral and Memorial Ceremonies $800
+# Personally written service 
+# Funeral/Memorial Service and Ash Scattering Ceremony Information Kit 
+# Face to face meeting at your home with family members to discuss your wishes for the service 
+# Discussion with close relatives to gather information about deceased
+# Liaison with funeral director 
+# Performance of service
+# Performance of optional remembrance rituals 
+
+
+# Additional Services
+
+# Master of Ceremonies $300
+# Liaison with on the day service providers to ensure smoothing running of the event
+# Event house keeping  
+# Flexible, professional approach to event coordination 
+# Experienced, confident public speaking and presentation 
+# Personalised event specific service tailored to client’s needs
+
+# First Dance Choreography and Lessons $ 250 ($150 when booked with a wedding package) 
+# Personalised first dance choreography 
+# Two 45 minute dance lessons with couple 
+# Free choreography recording for at home practice 
+# Choice of a variety of dance style to suit your needs 
