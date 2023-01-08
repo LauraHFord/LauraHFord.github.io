@@ -5,7 +5,7 @@
 ### Price List 
 #### Weddings 
 Eat Drink and Be Married $950
-# Inclusions: 
+###### Inclusions: 
 # A personally written ceremony script
 # Wedding Information Kit
 # Two to three face to face meetings
@@ -67,7 +67,7 @@ Eat Drink and Be Married $950
 # Experienced, confident public speaking and presentation 
 # Personalised event specific service tailored to client’s needs
 
-# First Dance Choreography and Lessons $ 250 ($150 when booked with a wedding package) 
+# First Dance Choreography and Lessons $350 ($150 when booked with a wedding package) 
 # Personalised first dance choreography 
 # Two 45 minute dance lessons with couple 
 # Free choreography recording for at home practice 
