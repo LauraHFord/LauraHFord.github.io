@@ -49,14 +49,17 @@ author:
   email. : celebrant@lauraford.com.au
   links:
     - label: "Pricing"
-      icon: "fas fa-fw fa-link"
-      url: "/pages/pricing"
+        icon: "fas fa-fw fa-link"
+        url: "/pages/pricing"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/laurahfordcelebrant"
+        icon: "fab fa-fw fa-instagram"
+        url: "https://instagram.com/laurahfordcelebrant"
 
 footer:
   links:
+  - label: "Pricing"
+      icon: "fas fa-fw fa-link"
+      url: "/pages/pricing"
   - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/laurahfordcelebrant"
