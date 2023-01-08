@@ -49,7 +49,7 @@ author:
   links:
     - label: "Pricing"
       icon: "fas fa-fw fa-link"
-      url: "/pages/pricing"
+      url: "/pricing"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/laurahfordcelebrant"
@@ -58,7 +58,7 @@ footer:
   links:
   - label: "Pricing"
     icon: "fas fa-fw fa-link"
-    url: "/pages/pricing"
+    url: "/pricing"
   - label: "Instagram"
     icon: "fab fa-fw fa-instagram"
     url: "https://instagram.com/laurahfordcelebrant"
