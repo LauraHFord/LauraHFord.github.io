@@ -24,7 +24,7 @@ Inclusions:
 - Presentation of Marriage Certificate
 - Strictly confidential storage of records
 - Performance of legally binding ceremony 
-- Provided Public Annoucemenet system and blue tooth music operation
+- Provided Public Annoucement system and blue tooth music operation
 - Professional liaison with on the day service providers to ensure smooth running of the ceremony
 
 
