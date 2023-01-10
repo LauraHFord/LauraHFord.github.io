@@ -19,21 +19,21 @@ Inclusions:
 - A personally written ceremony script
 - Wedding Information Kit
 - Two face to face meetings
-- One wedding rehearsal
+- One face to face wedding rehearsal
 - Preparation and submission of legal documents and certifications to Births, Deaths and Marriages
 - Presentation of Marriage Certificate
 - Strictly confidential storage of records
-- Performance of legally binding ceremony 
+- Performance of legally binding ceremony without restrictions 
 - Provided Public Annoucement system and blue tooth music operation
 - Professional liaison with on the day service providers to ensure smooth running of the ceremony
+- Use of Ceremony directional sign 
 
 
 ### Your Marriage Awaits $850
 Inclusions: 
 - Personally written ceremony script 
 - Wedding Information Kit 
-- One to Two face to face meetings 
-- One optional wedding rehearsal 
+- One face to face meeting 
 - Preparation and submission of legal documents and certifications to Births, Deaths and Marriages 
 - Presentation of Marriage Certificate 
 - Strictly confidential storage of records 
@@ -42,7 +42,7 @@ Inclusions:
 - Liaison with on the day service providers to ensure smooth running of the ceremony
 
 
-### Ring it On $600
+### Ring it On $650
 Inclusions: 
 - Tailored script from samples 
 - Wedding Information Kit 
@@ -52,6 +52,9 @@ Inclusions:
 - Strictly confidential storage of records 
 - Performance of 20 minute legally binding ceremony 
 - Provided Public Annoucement system and blue tooth music operation
+
+
+* Please note you will be presented with a Form 15 Marriage Certificate on the day of your ceremony if you require Laura Ford to request an official copy of your certifcate to be delived an additional cost will be incured *
 
 
 
