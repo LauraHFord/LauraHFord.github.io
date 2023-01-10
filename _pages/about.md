@@ -14,6 +14,6 @@ My presentation style is bubbly, heartfelt, and assertive, delivered with experi
 
 I service the Greater Sydney Region, travelling to regional and interstate areas on request. 
 
-## Instagram   @laurahfordcelebrant
-## Email       celebrant@lauraford.com.au 
-## ABN         9447 4189 199
+### Instagram   @laurahfordcelebrant
+### Email       celebrant@lauraford.com.au 
+### ABN         9447 4189 199
