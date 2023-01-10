@@ -54,6 +54,8 @@ Inclusions:
 - Provided Public Annoucement system and blue tooth music operation
 
 
+
+
 Please note you will be presented with a Form 15 Marriage Certificate on the day of your ceremony if you require Laura Ford to request an official copy of your certifcate to be delived an additional cost will be incured
 
 
